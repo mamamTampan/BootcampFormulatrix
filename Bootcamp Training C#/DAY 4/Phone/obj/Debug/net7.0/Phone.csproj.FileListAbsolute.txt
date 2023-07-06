@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\bin\Debug\net7.0\Phone.exe
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\bin\Debug\net7.0\Phone.deps.json
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\bin\Debug\net7.0\Phone.runtimeconfig.json
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\bin\Debug\net7.0\Phone.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\bin\Debug\net7.0\Phone.pdb
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\refint\Phone.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.pdb
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\ref\Phone.dll
