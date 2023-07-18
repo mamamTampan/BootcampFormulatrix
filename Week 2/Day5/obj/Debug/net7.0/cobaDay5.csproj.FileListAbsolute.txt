@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\bin\Debug\net7.0\cobaDay5.exe
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\bin\Debug\net7.0\cobaDay5.deps.json
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\bin\Debug\net7.0\cobaDay5.runtimeconfig.json
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\bin\Debug\net7.0\cobaDay5.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\bin\Debug\net7.0\cobaDay5.pdb
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\refint\cobaDay5.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.pdb
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\cobaDay5.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day5\obj\Debug\net7.0\ref\cobaDay5.dll

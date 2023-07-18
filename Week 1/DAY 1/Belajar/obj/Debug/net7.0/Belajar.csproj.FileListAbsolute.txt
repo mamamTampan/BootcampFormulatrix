@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\bin\Debug\net7.0\Belajar.exe
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\bin\Debug\net7.0\Belajar.deps.json
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\bin\Debug\net7.0\Belajar.runtimeconfig.json
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\bin\Debug\net7.0\Belajar.dll
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\bin\Debug\net7.0\Belajar.pdb
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.dll
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\refint\Belajar.dll
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.pdb
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\ref\Belajar.dll

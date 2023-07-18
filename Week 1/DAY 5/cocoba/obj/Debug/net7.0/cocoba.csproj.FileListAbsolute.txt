@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\bin\Debug\net7.0\cocoba.exe
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\bin\Debug\net7.0\cocoba.deps.json
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\bin\Debug\net7.0\cocoba.runtimeconfig.json
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\bin\Debug\net7.0\cocoba.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\bin\Debug\net7.0\cocoba.pdb
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\refint\cocoba.dll
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.pdb
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\ref\cocoba.dll

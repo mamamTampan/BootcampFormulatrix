@@ -1,0 +1,5 @@
+C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.csproj.CoreCompileInputs.cache

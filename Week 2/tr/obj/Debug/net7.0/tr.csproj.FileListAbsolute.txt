@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\bin\Debug\net7.0\tr.exe
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\bin\Debug\net7.0\tr.deps.json
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\bin\Debug\net7.0\tr.runtimeconfig.json
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\bin\Debug\net7.0\tr.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\bin\Debug\net7.0\tr.pdb
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\refint\tr.dll
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.pdb
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\tr.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\Bootcamp\Week 2\tr\obj\Debug\net7.0\ref\tr.dll
