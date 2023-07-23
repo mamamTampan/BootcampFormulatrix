@@ -9,6 +9,7 @@
 	
 	{
 		Console.WriteLine(myInt);
+		Console.WriteLine(myString);
 
 	}
 }
