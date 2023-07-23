@@ -1,14 +1,13 @@
-﻿using dogMaker;
-
-namespace Program;
-class Program
+namespace dogMaker
 {
-	static void Main()
-	
-	{
-		dog aaa = new dog("aaa");
-		aaa.Eat("daging");
-		dog bbb = new Dog("bbb");
-		bbb.Eat("sosis");
-	}
+    public class Program
+    {
+        static void Main()
+        {
+            Dog aaa = new Dog("aaa");
+            aaa.Eat("daging");
+            Dog bbb = new Dog("bbb");
+            bbb.EatFood("sosis");
+        }
+    }
 }
