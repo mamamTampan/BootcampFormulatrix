@@ -1,4 +1,4 @@
-namespace dogMaker
+namespace DogMaker
 {
     public class Dog
     {	
