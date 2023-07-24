@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
 	static void Main()
 	{
@@ -14,8 +14,8 @@
 	  	
 		bbb.Panjang = "Kicauannya Lumayan";
 		Console.WriteLine(bbb.Panjang);
-		bbb.Panjang2 = "Kicauannya Panjang";
-		Console.WriteLine(bbb.Panjang2);
+		bbb.panjang = "Kicauannya Panjang";
+		Console.WriteLine(bbb.panjang);
 
 		bool jnsBurung = bbb.setJenis("sultan");
 		if(jnsBurung) 
