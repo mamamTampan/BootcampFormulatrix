@@ -49,7 +49,7 @@ public class BurungMahal : Burung, Ikicau, Isayap, Icorak
 		Console.WriteLine("Bercorak Indah");
 	}
 public string Panjang { get; set; }
-public string Panjang2;
+public string panjang;
 
 public string name;
 private string _name;
