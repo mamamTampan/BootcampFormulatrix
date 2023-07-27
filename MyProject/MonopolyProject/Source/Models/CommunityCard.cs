@@ -1,5 +1,5 @@
-using MonopolyProject.Source.Interface;
 using MonopolyProject.Source.Enum;
+using MonopolyProject.Source.Interface;
 
 namespace MonopolyProject.Source.Models;
 
