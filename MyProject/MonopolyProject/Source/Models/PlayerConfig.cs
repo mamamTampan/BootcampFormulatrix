@@ -14,4 +14,3 @@ public class PlayerConfig : IPlayerConfig
 	private Dictionary <Tile.KeyValuePair<string,int>> _propertyMap = new Dictionary<Tile.KeyValuePair<string,int>>();
 
 }
-
