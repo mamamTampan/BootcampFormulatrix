@@ -2,7 +2,7 @@ namespace MonopolyProject.Source.Enum;
 
 public enum ChanceCardType
 {
-	    Fine,
+	Fine,
         Reward,
         Tax,
         GoToJail,

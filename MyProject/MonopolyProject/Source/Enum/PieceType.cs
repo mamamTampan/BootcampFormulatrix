@@ -7,4 +7,3 @@ public enum PieceType
     RED,
     WHITE
 }
-
