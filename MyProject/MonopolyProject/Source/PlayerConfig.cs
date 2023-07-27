@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
 using MonopolyProject.Source.Interface;
 
-namespace MonopolyProject.Source.Models;
+namespace MonopolyProject.Source;
 
-public class PlayerConfig : IPlayerConfig
+public class PlayerConfig : Interface.IPlayerConfig
 {
 	private PieceType _pieceColor = new PieceType;
 	private int _position;

@@ -1,5 +1,3 @@
-using MonopolyProject.Source.Enum;
-
 namespace MonopolyProject.Source.Interface;
 
 public interface IPiece

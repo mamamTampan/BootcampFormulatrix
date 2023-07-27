@@ -1,4 +1,4 @@
-namespace MonopolyProject.Source.Models;
+namespace MonopolyProject.Source;
 
 public class Board
 {

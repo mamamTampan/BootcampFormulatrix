@@ -1,9 +1,6 @@
-using System;
-using MonopolyProject.Source.Interface;
+namespace MonopolyProject.Source;
 
-namespace MonopolyProject.Source.Models;
-
-public class HumanPlayer : IPlayer
+public class HumanPlayer : Interface.IPlayer
 {
 	private int _id;
 	private string _name = "";
