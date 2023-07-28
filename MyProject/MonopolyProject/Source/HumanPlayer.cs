@@ -3,10 +3,10 @@ namespace MonopolyProject.Source;
 public class HumanPlayer : Interface.IPlayer
 {
 	private int _id;
-	private string _name = "";
+	private string? _name;
 	public bool SetName(string name)
 	{
-		if (string.IsNullOrWhiteSpace(name))
+		if (name.Length >= 3 )
 		{
 			return false;
 		}
@@ -19,12 +19,15 @@ public class HumanPlayer : Interface.IPlayer
 	}
 	public bool SetId(int id)
 	{
-		if (id <= 0)
+		if (id > 0)
+		{
+			_id = id;
+			return true;
+		}
+		else
 		{
 			return false;
 		}
-		_id = id;
-		return true;
 	}
 	public int GetId()
 	{

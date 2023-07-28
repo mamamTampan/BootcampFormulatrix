@@ -2,7 +2,7 @@ namespace MonopolyProject.Source.Tile;
 
 public class LandmarkTile : Interface.IPlayer
 {
-	private string _owner;
+	private IPlayer _owner;
 	private bool _hasProperty;
 	private int _initialPrice;
 	private int _housePrice;

@@ -4,7 +4,7 @@ namespace MonopolyProject.Source.Interface;
 
 public interface IProperty
 {
-	bool AddProperty(Dictionary<Tile, int> property);
+	bool Dictionary<Tile.		
 	bool SellProperty(Tile property);
 	Dictionary<Tile, int> GetProperty();
 }

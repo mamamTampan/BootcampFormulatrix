@@ -1,9 +1,11 @@
+using System.Dynamic;
+
 namespace MonopolyProject.Source.Interface;
 
 public interface IPlayer
 {
     bool SetName(string name);
-    string GetName();
+    string? GetName();
     bool SetId(int id);
     int GetId();
-}
+}   
