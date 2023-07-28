@@ -11,16 +11,16 @@ public abstract Tile
 	{
 		TileType
 	}
-	public  GetName()
+	public string GetName()
 	{
-		string
+		return _name;
 	}
-	public GetLocation()
+	public int GetLocation()
 	{
-		int
+		return _location;
 	}
-	public GetDescription()
+	public string GetDescription()
 	{
-		string
+		return _description;
 	}	
 }

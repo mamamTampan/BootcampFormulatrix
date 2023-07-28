@@ -4,8 +4,8 @@ public class TaxTile
 {
 	private int _amount;
 	
-	public GetAmount()
+	public int GetAmount()
 	{
-		int
+		return _amount;
 	}
 }

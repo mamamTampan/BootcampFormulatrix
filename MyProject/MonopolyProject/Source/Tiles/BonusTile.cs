@@ -2,10 +2,10 @@ namespace MonopolyProject.Source.Tiles;
 
 public class BonusTile
 {
-	private int _amountBonus
+	private int _amountBonus;
 	
-	public GetAmount()
+	public int GetAmount()
 	{
-		int
+		return _amountBonus;
 	}
 }

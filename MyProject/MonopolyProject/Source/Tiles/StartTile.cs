@@ -2,10 +2,10 @@ namespace MonopolyProject.Source.Tiles;
 
 public class StartTile
 {
-	private int _amountRegular
+	private int _amountRegular;
 	
-	public GetAmount()
+	public int GetAmount()
 	{
-		int
+		return _amountRegular;
 	}
 }
