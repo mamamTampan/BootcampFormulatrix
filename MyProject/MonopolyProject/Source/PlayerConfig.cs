@@ -1,5 +1,3 @@
-using MonopolyProject.Source.Interface;
-
 namespace MonopolyProject.Source;
 
 public class PlayerConfig : Interface.IPlayerConfig
