@@ -36,15 +36,15 @@ public enum GameStatus
 public enum ChanceCardType
 {
 	Fine,
-		Reward,
-		Tax,
-		GoToJail,
-		FreeFromJail,
-		HeadToLandmark,
-		BackToLandmark,
-		StepForward,
-		StepBack,
-		HeadToStart
+	Reward,
+	Tax,
+	GoToJail,
+	FreeFromJail,
+	HeadToLandmark,
+	BackToLandmark,
+	StepForward,
+	StepBack,
+	HeadToStart
 }
 public enum CommunityCardType
 {
