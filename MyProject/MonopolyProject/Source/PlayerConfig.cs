@@ -6,7 +6,7 @@ public class PlayerConfig : Interface.IPlayerConfig
 	private int _position;
 	private int _balance;
 	private bool _isInJail;
-	private ICard _keptCard;
-	private Dictionary <Tile.KeyValuePair<string,int>> _propertyMap = new Dictionary<Tile.KeyValuePair<string,int>>();
+	private Interface.ICard _keptCard;
+	private Dictionary<Tile,KeyValuePair<string,int>> _propertyMap = new Dictionary<Tile,KeyValuePair<string,int>>();
 
 }

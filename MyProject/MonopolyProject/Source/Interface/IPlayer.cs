@@ -1,5 +1,3 @@
-using System.Dynamic;
-
 namespace MonopolyProject.Source.Interface;
 
 public interface IPlayer

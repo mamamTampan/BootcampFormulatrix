@@ -1,6 +1,7 @@
+using MonopolyProject.Source.Interface;
 namespace MonopolyProject.Source;
 
-public class HumanPlayer : Interface.IPlayer
+public class HumanPlayer : IPlayer
 {
 	private int _id;
 	private string? _name;
@@ -8,12 +9,15 @@ public class HumanPlayer : Interface.IPlayer
 	{
 		if (name.Length >= 3 )
 		{
-			return false;
+			_name = name;
+			return true;
 		}
-		_name = name;
-		return true;
+		else
+		{
+			return true;
+		}
 	}
-	public string GetName()
+	public string? GetName()
 	{
 		return _name;
 	}

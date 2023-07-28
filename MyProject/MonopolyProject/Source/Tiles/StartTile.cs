@@ -1,4 +1,4 @@
-namespace MonopolyProject.Source.Tile;
+namespace MonopolyProject.Source.Tiles;
 
 public class StartTile
 {

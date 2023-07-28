@@ -2,7 +2,7 @@ namespace MonopolyProject.Source;
 
 public abstract Tile
 {
-	protected TileType _type
+	protected TileType _type;
 	protected string _name;
 	protected int _location;
 	protected string _description;
@@ -23,5 +23,4 @@ public abstract Tile
 	{
 		string
 	}	
-	
 }
