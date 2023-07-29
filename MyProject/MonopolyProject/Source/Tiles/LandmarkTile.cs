@@ -2,7 +2,7 @@ namespace MonopolyProject.Source.Tiles;
 
 public class LandmarkTile : Interface.IPlayer
 {
-	private IPlayer _owner;
+	private Interface.IPlayer _owner;
 	private bool _hasProperty;
 	private int _initialPrice;
 	private int _housePrice;
@@ -13,7 +13,47 @@ public class LandmarkTile : Interface.IPlayer
 	private int _maxHouse;
 	private int _maxHotel;
 	
-	public bool SetOwner(string _owner)
+	public bool SetOwner(Interface.IPlayer owner)
+	{
+		
+	}
+	public void GetOwner()
+	{
+		
+	}
+	public bool HasOwner()
+	{
+		
+	}
+	public int GetMaxHouse()
+	{
+		
+	}
+	public int GetMaxHotel()
+	{
+		
+	}
+	public int GetHouseTotal()
+	{
+		
+	}
+	public int GetHotelTotal()
+	{
+		
+	}
+	public int GetInitialPrice()
+	{
+		
+	}
+	public int GetHousePrice()
+	{
+		
+	}
+	public int GetHotelPrice()
+	{
+		
+	}
+	public int GetRent()
 	{
 		
 	}

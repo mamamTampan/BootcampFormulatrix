@@ -13,7 +13,7 @@ public class MonopolyGame : IPlayer, IDice
 	public int diceSide;
 	public int diceDoubleCount;
 	
-	public CheckGameStatus()
+	public void CheckGameStatus()
 	{
 		return GameStatus;
 	}
