@@ -18,7 +18,8 @@ public enum TileType
 	CHANCE_CARD,
 	COMMUNITY_CARD,
 	PUBLIC_PLACE,
-	LANDMARK
+	LANDMARK,
+	TAX
 }
 public enum PieceType
 {

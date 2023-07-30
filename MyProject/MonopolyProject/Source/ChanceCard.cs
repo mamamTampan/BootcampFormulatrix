@@ -21,7 +21,7 @@ namespace MonopolyProject.Source
 			{ ChanceCardType.StepBack, "Step Back: Move back 2 spaces. If you land on Go, collect $50."},
 			{ ChanceCardType.HeadToStart, "Head to Start: Go back to Start. Collect $200 from the bank."}
 		};
-		private ChanceCard(ChanceCardType type, string description)
+		public ChanceCard(ChanceCardType type, string description)
 		{
 			_type = type;
 			_description = description;

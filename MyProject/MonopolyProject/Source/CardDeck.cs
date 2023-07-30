@@ -13,7 +13,6 @@ namespace MonopolyProject.Source
             chanceDeck = new Stack<ChanceCard>();
             commDeck = new Stack<CommunityCard>();
         }
-
         public bool ShuffleCard<T>(Stack<T> deck)
         {
             if (deck == null || deck.Count <= 1)
@@ -29,9 +28,7 @@ namespace MonopolyProject.Source
                 deck.Push(tempDeck[randomIndex]);
                 tempDeck.RemoveAt(randomIndex);
             }
-
             return true;
         }
     }
 }
-    

@@ -14,7 +14,7 @@ public class HumanPlayer : IPlayer
 		}
 		else
 		{
-			return true;
+			return false;
 		}
 	}
 	public string? GetName()

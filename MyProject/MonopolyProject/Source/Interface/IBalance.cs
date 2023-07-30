@@ -3,8 +3,7 @@ namespace MonopolyProject.Source.Interface;
 public interface IBalance
 {
     int GetBalance();
-    bool SetBalance(int setBalance);
-    bool IncreaseBalance(int incBalance);
-    bool DecreaseBalance(int decBalance);
+    bool SetBalance(int balance);
+    bool IncreaseBalance(int amount);
+    bool DecreaseBalance(int amount);
 }
-

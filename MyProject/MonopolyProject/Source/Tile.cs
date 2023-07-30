@@ -1,26 +1,14 @@
 namespace MonopolyProject.Source;
 
-public abstract Tile
+public abstract class Tile
 {
 	protected TileType _type;
 	protected string _name;
 	protected int _location;
 	protected string _description;
 	
-	public GetType()
-	{
-		TileType
-	}
-	public string GetName()
-	{
-		return _name;
-	}
-	public int GetLocation()
-	{
-		return _location;
-	}
-	public string GetDescription()
-	{
-		return _description;
-	}	
+	public abstract TileType GetType();
+	public abstract string GetName();
+	public abstract int GetLocation();
+	public abstract string GetDescription();
 }

@@ -13,3 +13,11 @@ D:\BACKUP ALL TRAINING\BootcampFormulatrix\Project Individu\MonopolyProject\obj\
 D:\BACKUP ALL TRAINING\BootcampFormulatrix\Project Individu\MonopolyProject\obj\Debug\net7.0\MonopolyProject.pdb
 d:\BACKUP ALL TRAINING\BootcampFormulatrix\Project Individu\MonopolyProject\obj\Debug\net7.0\MonopolyProject.genruntimeconfig.cache
 d:\BACKUP ALL TRAINING\BootcampFormulatrix\Project Individu\MonopolyProject\obj\Debug\net7.0\ref\MonopolyProject.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\refint\MonopolyProject.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.pdb

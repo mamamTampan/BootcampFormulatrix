@@ -4,8 +4,5 @@ public interface IDice
 {
 	bool SetDiceSide(int _diceSide);
 	int Roll();
-	virtual void IsDouble()
-	{
-		
-	}
+	void IsDouble(); //virtual
 }
