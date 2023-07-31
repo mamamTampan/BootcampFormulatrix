@@ -22,6 +22,7 @@ namespace MonopolyProject.Source;
 		}
 		public bool SetPositionToNew(int newPosition)
 		{
+			_position = 1;
 			_position = newPosition;
 			return true;
 		}

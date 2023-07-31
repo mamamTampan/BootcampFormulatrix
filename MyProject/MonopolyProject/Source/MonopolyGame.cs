@@ -89,7 +89,6 @@ namespace MonopolyProject.Source;
 		{
 			return true;
 		}
-
 /*		public ICard TakeChanceCard()
 		{
 			return new ChanceCard();
@@ -144,7 +143,7 @@ namespace MonopolyProject.Source;
 		{
 			return TransactionStatus.Success;
 		}
-
+*/
 		public bool SetNextTurn()
 		{
 			return true;
@@ -152,12 +151,12 @@ namespace MonopolyProject.Source;
 
 		public IPlayer CheckRichest()
 		{
-			return new Player();
+			return new HumanPlayer();
 		}
 
 		public IPlayer CheckWinner()
 		{
-			return new Player();
+			return new HumanPlayer();
 		}
-    */
+
 	}

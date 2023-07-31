@@ -36,3 +36,10 @@ c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.pdb
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\ref\MonopolyProject.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\ref\MonopolyProject.dll

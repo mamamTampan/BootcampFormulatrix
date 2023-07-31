@@ -21,28 +21,33 @@ public class LandmarkTile : Tile
 		this._description = description;
 	}
 	public override TileType GetType()
-    {
-        return _type;
-    }
-    public override string GetName()
-    {
-        return _name;
-    }
+	{
+		return _type;
+	}
+	public override string GetName()
+	{
+		return _name;
+	}
 
-    public override int GetLocation()
-    {
-        return _location;
-    }
+	public override int GetLocation()
+	{
+		return _location;
+	}
 
-    public override string GetDescription()
-    {
-        return _description;
-    }
+	public override string GetDescription()
+	{
+		return _description;
+	}
 
 	public bool SetOwner(Interface.IPlayer player)
 	{
-		_owner = player;
-		return true;
+		if (_owner == player)
+		{
+			return true;
+		}
+		else
+			return false;
+		
 	}
 	public Interface.IPlayer GetOwner()
 	{
@@ -86,4 +91,3 @@ public class LandmarkTile : Tile
 		return _rent;
 	}
 }
-
