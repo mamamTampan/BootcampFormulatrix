@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj": {}
+    "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj": {}
   },
   "projects": {
-    "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj": {
+    "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj",
         "projectName": "MonopolyProject",
-        "projectPath": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj",
-        "packagesPath": "C:\\Users\\Vezsh\\.nuget\\packages\\",
-        "outputPath": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\MyProject\\MonopolyProject\\obj\\",
+        "projectPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\MyProject\\MonopolyProject\\MonopolyProject.csproj",
+        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\MyProject\\MonopolyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vezsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

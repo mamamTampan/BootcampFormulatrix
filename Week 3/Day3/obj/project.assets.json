@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix-1\\Week 3\\Day3\\cobaDay3.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 3\\Day3\\cobaDay3.csproj",
       "projectName": "cobaDay3",
-      "projectPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix-1\\Week 3\\Day3\\cobaDay3.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 3\\Day3\\cobaDay3.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix-1\\Week 3\\Day3\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 3\\Day3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

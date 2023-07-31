@@ -13,3 +13,18 @@ C:\Users\Batch 3\Desktop\TRAINING\DAY 3\BurungLib\obj\Debug\net7.0\refint\Burung
 C:\Users\Batch 3\Desktop\TRAINING\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.pdb
 C:\Users\Batch 3\Desktop\TRAINING\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.genruntimeconfig.cache
 C:\Users\Batch 3\Desktop\TRAINING\DAY 3\BurungLib\obj\Debug\net7.0\ref\BurungLib.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.exe
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.deps.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.runtimeconfig.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\refint\BurungLib.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\ref\BurungLib.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj",
       "projectName": "mencoba",
-      "projectPath": "C:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

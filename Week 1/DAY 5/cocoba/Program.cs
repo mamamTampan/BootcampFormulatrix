@@ -1,4 +1,5 @@
-﻿class Program
+﻿namespace Handphone;
+class Program
 {
 	static void Main()
 	{
@@ -10,8 +11,8 @@
 		Console.WriteLine("");
 /////////////////////////////////////////////////////////////////////
 		int d = 5;
-		int e = d;
-		e = 2;
+		int e = 2;
+		// = e;
 		
 		Console.WriteLine(d);
 		Console.WriteLine(e);	
@@ -34,9 +35,9 @@
 		Console.WriteLine("");
 /////////////////////////////////////////////////////////////////////
 ////////////////GENERIC//////////////////////////////////////////////
-		Handphone<int> intGenericClass = new Handphone<int>(10);
+		Handphone<int> intGenericClass = new (10);
 		int result = intGenericClass.HandphoneMethod(50000);
-		Handphone<string> stringGenericClass = new Handphone<string>("Cinitnit");
+		Handphone<string> stringGenericClass = new ("Cinitnit");
 		stringGenericClass.HandphoneMethod("Aipon");
 		Console.WriteLine($"Harga: ${result}");
 

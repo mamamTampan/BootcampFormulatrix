@@ -13,3 +13,18 @@ C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\refint\cocoba.dl
 C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.pdb
 C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\cocoba.genruntimeconfig.cache
 C:\Users\Batch 3\Desktop\TRAINING\DAY 5\cocoba\obj\Debug\net7.0\ref\cocoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\bin\Debug\net7.0\cocoba.exe
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\bin\Debug\net7.0\cocoba.deps.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\bin\Debug\net7.0\cocoba.runtimeconfig.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\bin\Debug\net7.0\cocoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\bin\Debug\net7.0\cocoba.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\refint\cocoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\cocoba.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 5\cocoba\obj\Debug\net7.0\ref\cocoba.dll

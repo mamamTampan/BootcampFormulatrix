@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\TRAINING\\DAY 3\\BurungLib\\BurungLib.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 3\\BurungLib\\BurungLib.csproj",
       "projectName": "BurungLib",
-      "projectPath": "C:\\Users\\Batch 3\\Desktop\\TRAINING\\DAY 3\\BurungLib\\BurungLib.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 3\\BurungLib\\BurungLib.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Desktop\\TRAINING\\DAY 3\\BurungLib\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 3\\BurungLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

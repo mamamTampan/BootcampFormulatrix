@@ -21,3 +21,18 @@ D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\n
 D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.dll
 D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\refint\MonopolyProject.dll
 D:\BACKUP ALL TRAINING\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\refint\MonopolyProject.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.exe
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.deps.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.runtimeconfig.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\bin\Debug\net7.0\MonopolyProject.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\MonopolyProject.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\MyProject\MonopolyProject\obj\Debug\net7.0\ref\MonopolyProject.dll

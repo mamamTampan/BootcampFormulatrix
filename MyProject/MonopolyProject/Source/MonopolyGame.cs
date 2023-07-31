@@ -90,7 +90,7 @@ namespace MonopolyProject.Source;
 			return true;
 		}
 
-		public ICard TakeChanceCard()
+/*		public ICard TakeChanceCard()
 		{
 			return new ChanceCard();
 		}
@@ -159,5 +159,5 @@ namespace MonopolyProject.Source;
 		{
 			return new Player();
 		}
-   
+    */
 	}

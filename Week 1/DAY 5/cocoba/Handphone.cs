@@ -1,17 +1,18 @@
+namespace Handphone;
 public class Handphone<T>
 {
-    private T hp;
+    private readonly T hp;
 
-    public Handphone(T a)
-    {
-        hp = a;
-    }
+	public Handphone(T a)
+	{
+		hp = a;
+	}
 
-    public T HandphoneMethod(T tipe)
-    {
-        Console.WriteLine($"Handphone : {hp}");
-        Console.WriteLine($"Tipe : {tipe}");
+	public T HandphoneMethod(T tipe)
+	{
+		Console.WriteLine($"Handphone : {hp}");
+		Console.WriteLine($"Tipe : {tipe}");
 
-        return tipe;
-    }
+		return tipe;
+	}
 }

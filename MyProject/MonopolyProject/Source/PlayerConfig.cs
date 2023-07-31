@@ -1,9 +1,9 @@
 using MonopolyProject.Source.Interface;
 namespace MonopolyProject.Source;
 
-public interface IPlayerConfig : IPlayerCard, IProperty, IJail, IBalance, IPosition, IPiece{}
+	public interface IPlayerConfig : IPlayerCard, IProperty, IJail, IBalance, IPosition, IPiece{}
 
-public class PlayerConfig : IPlayerConfig
+	public class PlayerConfig : IPlayerConfig
 	{
 		private PieceType _pieceColor;
 		private int _position;

@@ -3,3 +3,18 @@ C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.GeneratedMSBuildE
 C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfoInputs.cache
 C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfo.cs
 C:\Users\Batch 3\Desktop\Coba\mencoba\obj\Debug\net7.0\mencoba.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.exe
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.deps.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.runtimeconfig.json
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfo.cs
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\refint\mencoba.dll
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.pdb
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.genruntimeconfig.cache
+c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\ref\mencoba.dll

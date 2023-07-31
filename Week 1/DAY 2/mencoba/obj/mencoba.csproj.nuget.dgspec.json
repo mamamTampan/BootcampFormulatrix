@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj": {}
+    "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj": {
+    "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj",
         "projectName": "mencoba",
-        "projectPath": "c:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\mencoba.csproj",
+        "projectPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\mencoba.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 3\\Desktop\\Coba\\mencoba\\obj\\",
+        "outputPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 1\\DAY 2\\mencoba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
