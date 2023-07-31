@@ -28,7 +28,7 @@ namespace MonopolyProject.Source
 			tiles.Add(new CommunityTile("Community Chest", 18,"Take a Community Card"));
 			tiles.Add(new LandmarkTile("", 19,""));
 			tiles.Add(new LandmarkTile("", 20,""));
-			tiles.Add(new BonusTile("Free Parking", 21,""));
+			tiles.Add(new FreeParkingTile("Free Parking", 21,"U can enjoy until ur turn"));
 			tiles.Add(new LandmarkTile("", 22,""));
 			tiles.Add(new ChanceTile("Chance", 23,"Take a Chance Card"));
 			tiles.Add(new LandmarkTile("", 24,""));

@@ -1,12 +1,10 @@
 namespace MonopolyProject.Source.Tiles;
 
-public class BonusTile : Tile
+public class FreeParkingTile : Tile
 {
-	private int _amountBonus;
-
-	public BonusTile(string name, int location, string description)
+	public FreeParkingTile(string name, int location, string description)
 	{
-		this._type = TileType.BONUS;
+		this._type = TileType.FREE_PARKING;
 		this._name = name;
 		this._location = location;
 		this._description = description;
@@ -27,8 +25,4 @@ public class BonusTile : Tile
     {
         return _description;
     }
-	public int GetAmount()
-	{
-		return _amountBonus;
-	}
 }

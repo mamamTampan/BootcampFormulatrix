@@ -13,7 +13,7 @@ public enum TileType
 {
 	START,
 	GO_TO_JAIL,
-	BONUS,
+	FREE_PARKING,
 	IN_JAIL,
 	CHANCE_CARD,
 	COMMUNITY_CARD,

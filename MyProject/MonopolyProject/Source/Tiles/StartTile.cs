@@ -18,13 +18,11 @@ public class StartTile : Tile
 	{
 		return _name;
 	}
-
 	public override int GetLocation()
 	{
 		_location = 1;
 		return _location;
 	}
-
 	public override string GetDescription()
 	{
 		return _description;

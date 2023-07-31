@@ -18,17 +18,14 @@ public class PublicPlaceTile : Tile
     {
         return _name;
     }
-
     public override int GetLocation()
     {
         return _location;
     }
-
     public override string GetDescription()
     {
         return _description;
     }
-	
 	public int GetAmount()
 	{
 		return _amount;
