@@ -28,3 +28,18 @@ c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\ne
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.pdb
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\ref\BurungLib.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\bin\Debug\net7.0\BurungLib.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\refint\BurungLib.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\BurungLib.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 3\BurungLib\obj\Debug\net7.0\ref\BurungLib.dll

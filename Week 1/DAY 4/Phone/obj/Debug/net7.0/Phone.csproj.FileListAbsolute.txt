@@ -13,3 +13,18 @@ C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\refint\Phone.dll
 C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.pdb
 C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\Phone.genruntimeconfig.cache
 C:\Users\Batch 3\Desktop\TRAINING\DAY 4\Phone\obj\Debug\net7.0\ref\Phone.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\bin\Debug\net7.0\Phone.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\bin\Debug\net7.0\Phone.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\bin\Debug\net7.0\Phone.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\bin\Debug\net7.0\Phone.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\bin\Debug\net7.0\Phone.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\refint\Phone.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\Phone.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 4\Phone\obj\Debug\net7.0\ref\Phone.dll

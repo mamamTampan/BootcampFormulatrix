@@ -13,3 +13,18 @@ c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day4\obj\Debug\net7.0\refint\CobaDay4.d
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day4\obj\Debug\net7.0\CobaDay4.pdb
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day4\obj\Debug\net7.0\CobaDay4.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day4\obj\Debug\net7.0\ref\CobaDay4.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\bin\Debug\net7.0\CobaDay4.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\bin\Debug\net7.0\CobaDay4.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\bin\Debug\net7.0\CobaDay4.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\bin\Debug\net7.0\CobaDay4.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\bin\Debug\net7.0\CobaDay4.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\refint\CobaDay4.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\CobaDay4.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day4\obj\Debug\net7.0\ref\CobaDay4.dll

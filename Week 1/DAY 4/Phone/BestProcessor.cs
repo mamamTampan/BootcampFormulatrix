@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestProcessor : IProcessor
 {
-	public string processor;
+	public string _processor;
 	public BestProcessor(string processor)
 	{
-		this.processor = processor;
+		this._processor = processor;
 	}
 	public void	ProcessorWork()
 	{

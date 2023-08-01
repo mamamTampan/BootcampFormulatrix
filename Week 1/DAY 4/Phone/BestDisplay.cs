@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestDisplay : IDisplay
 {
-	public string display;
+	public string _display;
 	public BestDisplay(string display)
 	{
-		this.display = display;
+		this._display = display;
 	}
 	public void	DisplayOn()
 	{

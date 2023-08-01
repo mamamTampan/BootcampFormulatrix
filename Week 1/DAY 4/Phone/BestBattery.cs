@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestBattery : IBattery
 {
-	public string battery;
+	public string _battery;
 	public BestBattery(string battery)
 	{
-		this.battery = battery;
+		this._battery = battery;
 	}
 	public void	BatteryCharge()
 	{

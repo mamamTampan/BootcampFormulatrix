@@ -13,3 +13,18 @@ c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\refint\Belajar.dll
 c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.pdb
 c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\Belajar.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\TRAINING\Belajar\obj\Debug\net7.0\ref\Belajar.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\bin\Debug\net7.0\Belajar.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\bin\Debug\net7.0\Belajar.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\bin\Debug\net7.0\Belajar.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\bin\Debug\net7.0\Belajar.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\bin\Debug\net7.0\Belajar.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\refint\Belajar.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\Belajar.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 1\Belajar\obj\Debug\net7.0\ref\Belajar.dll

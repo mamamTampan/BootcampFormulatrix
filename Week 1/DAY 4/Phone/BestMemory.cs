@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestMemory : IMemory
 {
-	public string memory;
+	public string _memory;
 	public BestMemory(string memory)
 	{
-		this.memory = memory;
+		this._memory = memory;
 	}
 	public void	MemoryWork()
 	{

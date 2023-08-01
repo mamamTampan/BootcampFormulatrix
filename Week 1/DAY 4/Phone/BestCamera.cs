@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestCamera : ICamera
 {
-	public string camera;
+	public string _camera;
 	public BestCamera(string camera)
 	{
-		this.camera = camera;
+		this._camera = camera;
 	}
 	public void	CameraOn()
 	{

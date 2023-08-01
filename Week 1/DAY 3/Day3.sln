@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAY 3", "DAY 3.csproj", "{9AD99737-3D68-47DE-A85D-B80F28019986}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurungLib", "BurungLib\BurungLib.csproj", "{54A184C6-66C7-471A-906F-DF889EB0EEBF}"
 EndProject
 Global

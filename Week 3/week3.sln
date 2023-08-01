@@ -4,8 +4,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cobaDay1", "Day1\cobaDay1.csproj", "{C7BF9BB0-FA4F-4D0A-A0BE-C4561071E0D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trial", "trial\trial.csproj", "{48112352-2DA4-4E8B-A361-16EC6A7E9E01}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cobaDay2", "Day2\cobaDay2.csproj", "{6FA6C2FC-9D00-4682-8E5C-ECD8F6A5F74A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cobaDay3", "Day3\cobaDay3.csproj", "{3B1935D0-7FBD-4A3E-ACC5-2D97237661EE}"

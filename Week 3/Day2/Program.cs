@@ -16,6 +16,5 @@ class Program
 			Console.WriteLine($"Nama Sayur : {veg.Key}\t|  Harga : {veg.Value}");
 		}
 		
-		vegetable.
 	}
 }

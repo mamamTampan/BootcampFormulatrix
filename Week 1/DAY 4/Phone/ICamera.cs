@@ -1,4 +1,4 @@
-namespace Phone;
+namespace IPhone;
 
 public interface ICamera
 {

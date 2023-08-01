@@ -28,3 +28,18 @@ c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day1\obj\Debug\net7.0\refint\coba.dll
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day1\obj\Debug\net7.0\coba.pdb
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day1\obj\Debug\net7.0\coba.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\Bootcamp\Week 2\Day1\obj\Debug\net7.0\ref\coba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\bin\Debug\net7.0\coba.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\bin\Debug\net7.0\coba.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\bin\Debug\net7.0\coba.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\bin\Debug\net7.0\coba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\bin\Debug\net7.0\coba.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\refint\coba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\coba.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 2\Day1\obj\Debug\net7.0\ref\coba.dll

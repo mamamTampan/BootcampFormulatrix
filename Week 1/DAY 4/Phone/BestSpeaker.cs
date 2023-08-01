@@ -1,11 +1,12 @@
+using IPhone;
 namespace Phone;
 
 public class BestSpeaker : ISpeaker
 {
-	public string speaker;
+	public string _speaker;
 	public BestSpeaker(string speaker)
 	{
-		this.speaker = speaker;
+		this._speaker = speaker;
 	}
 	public void	SpeakerOn()
 	{

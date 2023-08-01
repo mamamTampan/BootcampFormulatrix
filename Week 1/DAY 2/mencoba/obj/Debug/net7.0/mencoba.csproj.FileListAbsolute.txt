@@ -18,3 +18,18 @@ c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.pdb
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.genruntimeconfig.cache
 c:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\ref\mencoba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.exe
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.deps.json
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.runtimeconfig.json
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\bin\Debug\net7.0\mencoba.pdb
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.csproj.AssemblyReference.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfoInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.AssemblyInfo.cs
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.csproj.CoreCompileInputs.cache
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\refint\mencoba.dll
+D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.pdb
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\mencoba.genruntimeconfig.cache
+d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 1\DAY 2\mencoba\obj\Debug\net7.0\ref\mencoba.dll
