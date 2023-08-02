@@ -1,27 +1,42 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
 
-public class Program
+class Program
 {
-	static Semaphore semaphore = new Semaphore(5, 5);
+	public static Semaphore semaphore = new Semaphore(2,5); 
 
 	static async Task Main()
 	{
-		Task task = Task.Run(() => DoWork());
-		await task;
-		Console.ReadLine();
+		Task[] tasks = new Task[10];
+		for (int i = 1; i <= tasks.Length; i++)
+		{
+			int id = i;
+			tasks[i-1] = Task.Run(() => Work(id));
+		}
+
+		await Task.WhenAll(tasks);
+		Console.WriteLine("All Task Done.");
+		Console.ReadLine();	
 	}
 
-	static async Task DoWork( )
+	static void Work(int id)
 	{
-		for (int i = 1; i <= 5; i++)
-		{
-		Console.WriteLine($"Task {i} mulai");
-		semaphore.WaitOne();
+		Console.WriteLine($"Task {id} waiting semaphore ...");
 		
-		Console.WriteLine($"Task {i} berjalan");
-		await Task.Delay(123);
+		semaphore.WaitOne();
+
+		try
+		{
+			Console.WriteLine($"Task {id} got semaphore.");
+			
+			Console.WriteLine($"Task {id} working ...");
+			Thread.Sleep(9999);
 		}
-		Console.WriteLine($"Task selesai");
-		semaphore.Release();
+		finally
+		{
+			Console.WriteLine($"Task {id} realesed semaphore.");
+			semaphore.Release();
+		}
 	}
 }
