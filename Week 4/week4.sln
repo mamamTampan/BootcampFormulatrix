@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobaDay1", "Day 1\CobaDay1.csproj", "{D08E5735-8ED1-43C1-BABA-A20C3770D640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobaDay2", "Day 2\CobaDay2.csproj", "{6C77893B-684D-469E-AE8C-9890AF3DEB3E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobaDay3", "Day 3\CobaDay3.csproj", "{B539E0D1-28CD-48AA-859E-EB26746A7E98}"
 EndProject
 Global
@@ -22,5 +26,13 @@ Global
 		{B539E0D1-28CD-48AA-859E-EB26746A7E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B539E0D1-28CD-48AA-859E-EB26746A7E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B539E0D1-28CD-48AA-859E-EB26746A7E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08E5735-8ED1-43C1-BABA-A20C3770D640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08E5735-8ED1-43C1-BABA-A20C3770D640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08E5735-8ED1-43C1-BABA-A20C3770D640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08E5735-8ED1-43C1-BABA-A20C3770D640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C77893B-684D-469E-AE8C-9890AF3DEB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C77893B-684D-469E-AE8C-9890AF3DEB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C77893B-684D-469E-AE8C-9890AF3DEB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C77893B-684D-469E-AE8C-9890AF3DEB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
