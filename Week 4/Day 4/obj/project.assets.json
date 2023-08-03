@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
+    "C:\\Users\\Vezsh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 4\\Day 4\\CobaDay4.csproj",
+      "projectUniqueName": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 4\\Day 4\\CobaDay4.csproj",
       "projectName": "CobaDay4",
-      "projectPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 4\\Day 4\\CobaDay4.csproj",
-      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 4\\Day 4\\obj\\",
+      "projectPath": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 4\\Day 4\\CobaDay4.csproj",
+      "packagesPath": "C:\\Users\\Vezsh\\.nuget\\packages\\",
+      "outputPath": "D:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 4\\Day 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Vezsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

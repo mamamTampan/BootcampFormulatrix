@@ -8,7 +8,7 @@ namespace ListItem
 		private string path;
 		private FileInfo info;
 		private StreamWriter str;
-		private string input = "";
+		private string input;
 
 		public File()
 		{
