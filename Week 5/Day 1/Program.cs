@@ -20,8 +20,7 @@ class Program
 		
 		string[] add= {"Ishaq","Yaqub","Yusuf","Ayyub"};
 		order.AddRange(add);
-		var adds = order.Join
-						.Where(n => n.Length <= 10)
+		var adds = order.Where(n => n.Length <= 10)
 						.ToList();
 		foreach (var addd in adds)
 		{
