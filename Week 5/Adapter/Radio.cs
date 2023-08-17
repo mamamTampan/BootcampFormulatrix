@@ -13,7 +13,7 @@ public class Piano : IRadio
     }
 }
 
-public class Violin : IRadio
+public class Guitar : IRadio
 {
     public void Play()
     {
@@ -21,7 +21,7 @@ public class Violin : IRadio
     }
 }
 
-public class Flute : IRadio
+public class Drum : IRadio
 {
     public void Play()
     {

@@ -6,8 +6,8 @@ class Program
 		List<ISpotify> musicPlayers = new List<ISpotify>
 		{
 			new RadioAdapter(new Piano()),
-			new RadioAdapter(new Violin()),
-			new RadioAdapter(new Flute())
+			new RadioAdapter(new Guitar()),
+			new RadioAdapter(new Drum())
 		};
 
 		foreach (var musicPlayer in musicPlayers)
