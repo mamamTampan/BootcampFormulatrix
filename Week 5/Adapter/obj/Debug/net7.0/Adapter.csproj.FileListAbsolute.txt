@@ -13,3 +13,18 @@ D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\refin
 D:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.pdb
 d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
 d:\BACKUP ALL TRAINING\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\ref\Adapter.dll
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\bin\Debug\net7.0\Adapter.exe
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\bin\Debug\net7.0\Adapter.deps.json
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\bin\Debug\net7.0\Adapter.dll
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\bin\Debug\net7.0\Adapter.pdb
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.dll
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.pdb
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+C:\Users\Batch 3\Desktop\BootcampFormulatrix\Week 5\Adapter\obj\Debug\net7.0\ref\Adapter.dll

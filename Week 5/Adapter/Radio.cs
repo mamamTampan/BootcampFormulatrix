@@ -17,7 +17,7 @@ public class Guitar : IRadio
 {
     public void Play()
     {
-        Console.WriteLine("Playing the violin...");
+        Console.WriteLine("Playing the guitar...");
     }
 }
 
@@ -25,6 +25,6 @@ public class Drum : IRadio
 {
     public void Play()
     {
-        Console.WriteLine("Playing the flute...");
+        Console.WriteLine("Playing the drum...");
     }
 }
