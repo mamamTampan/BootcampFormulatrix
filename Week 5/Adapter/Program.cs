@@ -3,16 +3,16 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		List<ISpotify> musicPlayers = new List<ISpotify>
+		List<ISpotify> channel = new List<ISpotify>
 		{
-			new RadioAdapter(new Piano()),
-			new RadioAdapter(new Guitar()),
-			new RadioAdapter(new Drum())
+			new RadioAdapter(new Prambors()),
+			new RadioAdapter(new HardRock()),
+			new RadioAdapter(new Rri())
 		};
 
-		foreach (var musicPlayer in musicPlayers)
+		foreach (var ch in channel)
 		{
-			musicPlayer.PlayMusic();
+			ch.PlayChannel();
 		}
 	}
 }

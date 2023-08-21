@@ -5,26 +5,26 @@ public interface IRadio
     void Play();
 }
 
-public class Piano : IRadio
+public class Prambors : IRadio
 {
     public void Play()
     {
-        Console.WriteLine("Playing the piano...");
+        Console.WriteLine("Playing Prambors Channel ...");
     }
 }
 
-public class Guitar : IRadio
+public class HardRock : IRadio
 {
     public void Play()
     {
-        Console.WriteLine("Playing the violin...");
+        Console.WriteLine("Playing HardRock Channel ...");
     }
 }
 
-public class Drum : IRadio
+public class Rri : IRadio
 {
     public void Play()
     {
-        Console.WriteLine("Playing the flute...");
+        Console.WriteLine("Playing RRI Channel ...");
     }
 }

@@ -2,7 +2,7 @@ namespace Adapter;
 
 public interface ISpotify
 {
-    void PlayMusic();
+    void PlayChannel();
 }
 
 public class RadioAdapter : ISpotify
@@ -14,7 +14,7 @@ public class RadioAdapter : ISpotify
         _radio = radio;
     }
 
-    public void PlayMusic()
+    public void PlayChannel()
     {
         _radio.Play();
     }
