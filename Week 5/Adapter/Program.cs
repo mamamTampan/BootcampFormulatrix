@@ -9,7 +9,6 @@ class Program
 			new RadioAdapter(new HardRock()),
 			new RadioAdapter(new Rri())
 		};
-
 		foreach (var ch in channel)
 		{
 			ch.PlayChannel();

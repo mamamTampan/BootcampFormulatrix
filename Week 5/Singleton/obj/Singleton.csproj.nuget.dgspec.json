@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj": {}
+    "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj": {
+    "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Singleton\\obj\\",
+        "projectPath": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Singleton\\Singleton.csproj",
+        "packagesPath": "C:\\Users\\Vezsh\\.nuget\\packages\\",
+        "outputPath": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vezsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
