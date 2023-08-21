@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj": {}
+    "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj": {
+    "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Desktop\\BootcampFormulatrix\\Week 5\\Adapter\\obj\\",
+        "projectPath": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\Vezsh\\.nuget\\packages\\",
+        "outputPath": "d:\\BACKUP ALL TRAINING\\BootcampFormulatrix\\Week 5\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vezsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
