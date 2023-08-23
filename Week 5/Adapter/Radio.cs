@@ -2,12 +2,12 @@ namespace Adapter;
 
 public interface IRadio
 {
-    void Play();
+    void PlayChannel();
 }
 
 public class Prambors : IRadio
 {
-    public void Play()
+    public void PlayChannel()
     {
         Console.WriteLine("Playing Prambors Channel...");
     }
@@ -15,7 +15,7 @@ public class Prambors : IRadio
 
 public class HardRock : IRadio
 {
-    public void Play()
+    public void PlayChannel()
     {
         Console.WriteLine("Playing HardRock Channel ...");
     }
@@ -23,7 +23,7 @@ public class HardRock : IRadio
 
 public class Rri : IRadio
 {
-    public void Play()
+    public void PlayChannel()
     {
         Console.WriteLine("Playing RRI Channel ...");
     }

@@ -4,3 +4,5 @@
 
  Cons
  - The overall complexity of the code increases because you need to introduce a set of new interfaces and classes. Sometimes it’s simpler just to change the service class so that it matches the rest of your code.
+
+ 

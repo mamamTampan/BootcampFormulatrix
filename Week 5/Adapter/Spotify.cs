@@ -2,20 +2,23 @@ namespace Adapter;
 
 public interface ISpotify
 {
-    void PlayChannel();
+	void Play();
 }
 
-public class RadioAdapter : ISpotify
+public class Spotify : ISpotify
 {
-    private readonly IRadio _radio;
+	private readonly IRadio _radio;
+	private readonly IMusic _music;
 
-    public RadioAdapter(IRadio radio)
-    {
-        _radio = radio;
-    }
+	public Spotify(IRadio radio, IMusic music)
+	{
+		_radio = radio;
+		_music = music;
+	}
 
-    public void PlayChannel()
-    {
-        _radio.Play();
-    }
+	public void Play()
+	{
+		_radio.PlayChannel();
+		_music.PlayMusic();
+	}
 }
