@@ -2,29 +2,23 @@
 
 It seems easy, but if you don't do it, debugging is hard.
 
-•   Do it again. Do it again so you can look at it, so you can focus on the cause, and so you can
-    tell if you fixed it.
+•   Do it again.
 
-•   Start at the beginning. The mechanic needs to know that the car went through the car
-    wash before the windows froze.
+•   Start at the beginning.
 
-•   Stimulate the failure. Spray a hose on that leaky window. 
+•   Stimulate the failure.
 
-•   But don't simulate the failure. Spray a hose on the leaky window, not on a different,
-    "similar" one.
+•   But don't simulate the failure.
 
-•   Find the uncontrolled condition that makes it intermittent. Vary everything you
-    can—shake it, rattle it, roll it, and twist it until it shouts.
+•   Find the uncontrolled condition that makes it intermittent.
+ 
+•   Record everything and find the signature of intermittent bugs.
 
-•   Record everything and find the signature of intermittent bugs. Our bonding system
-    always and only failed on jumbled calls.
+•   Don't trust statistics too much.
 
-•   Don't trust statistics too much. The bonding problem seemed to be related to the time of
-    day, but it was actually the local teenagers tying up the phone lines.
+•   Know that "that" can happen.
 
-•   Know that "that" can happen. Even the ice cream flavor can matter.
-
-•   Never throw away a debugging tool. A robot paddle might come in handy someday
+•   Never throw away a debugging tool.
 
 
 
@@ -32,24 +26,17 @@ It seems easy, but if you don't do it, debugging is hard.
 
 You can think up thousands of possible reasons for a failure. You can see only the actual cause.
 
-•   See the failure. The senior engineer saw the real failure and was able to find the cause.
-    The junior guys thought they knew what the failure was and fixed something that wasn't broken.
+•   See the failure.
 
-•   See the details. Don't stop when you hear the pump. Go down to the basement and find out which pump.
+•   See the details
 
-•   Build instrumentation in. Use source code debuggers, debug logs, status messages,flashing lights, 
-    and rotten egg odors.
+•   Build instrumentation in.
 
-•   Add instrumentation on. Use analyzers, scopes, meters, metal detectors, electrocardiography machines,
-    and soap bubbles.
+•   Add instrumentation on.
 
-•   Don't be afraid to dive in. So it's production software. It's broken, and you'll have to open it
-    up to fix it.
+•   Don't be afraid to dive in.
 
-•   Watch out for Heisenberg. Don't let your instruments overwhelm your system.
-
-•   Guess only to focus the search. Go ahead and guess that the memory timing is bad,
-    but look at it before you build a timing fixer.
+•   Guess only to focus the search.
 
 
 
@@ -57,26 +44,19 @@ You can think up thousands of possible reasons for a failure. You can see only t
 
 It's hard for a bug to keep hiding when its hiding place keeps getting cut in half.
 
-•   Narrow the search with successive approximation. Guess a number from 1 to 100,
-    in seven guesses.
+•   Narrow the search with successive approximation.
 
-•   Get the range. If the number is 135 and you think the range is 1 to 100,
-    you'll have to widen the range.
+•   Get the range.
 
-•   Determine which side of the bug you are on. If there's goo, the pipe is upstream.
-    If there's no goo, the pipe is downstream.
+•   Determine which side of the bug you are on.
 
-•   Use easy−to−spot test patterns. Start with clean, clear water so the goo is obvious when it
-    enters the stream.
+•   Use easy−to−spot test patterns.
 
-•   Start with the bad. There are too many good parts to verify. Start where it's broken and
-    work your way back up to the cause.
+•   Start with the bad.
 
-•   Fix the bugs you know about. Bugs defend and hide one another. Take 'em out as soon
-    as you find 'em.
+•   Fix the bugs you know about.
 
-•   Fix the noise first. Watch for stuff that you know will make the rest of the system go crazy.
-    But don't get carried away on marginal problems or aesthetic changes.
+•   Fix the noise first. 
 
 
 

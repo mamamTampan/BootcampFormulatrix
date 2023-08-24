@@ -1,0 +1,284 @@
+classDiagram
+
+    %% ======== RELATION =========
+
+    UserSignup --|> MODEL
+    CandidateJobStatus --|> MODEL
+    UserJob --|> MODEL
+    Candidate --|> MODEL
+    EmailTemplate --|> MODEL
+    Job --|> MODEL
+    JobCreate --|> MODEL
+    JobViewModel --|> MODEL
+    User --|> MODEL
+    UserEditProfile --|> MODEL
+    UserViewModel --|> MODEL
+    DataCandidateJobs --|> MODEL
+    ErrorViewModel --|> MODEL
+    MailSettings --|> MODEL
+    ProcessType --|> MODEL
+    ProcessViewModel --|> MODEL
+    
+    CONTROLLER <|-- AdminController
+    CONTROLLER <|-- CandidateController
+    CONTROLLER <|-- HomeController
+
+    Job <|-- AdminController
+    JobViewModel <|-- AdminController
+    JobCreate <|-- AdminController
+    User <|-- AdminController
+    DataCandidateJobs <|-- AdminController
+    Candidate <|-- AdminController
+    ProcessViewModel <|-- AdminController
+    EmailTemplate <|-- AdminController
+    UserJob <|-- AdminController
+    ProcessType <|-- AdminController
+
+    User <|-- CandidateController
+    Candidate <|-- CandidateController
+    UserEditProfile <|-- CandidateController
+    Job <|-- CandidateController
+    UserJob <|-- CandidateController
+    ProcessType <|-- CandidateController
+    CandidateJobStatus <|-- CandidateController
+    
+    User <|-- HomeController
+    Candidate <|-- HomeController
+    JobViewModel <|-- HomeController
+    Job <|-- HomeController
+    
+    
+
+ %%   MODEL --> VIEW
+ %%   CONTROLLER <--o VIEW
+
+    %% ====== MODELS ======
+
+    class Candidate {
+        + Candidate :  int
+        + Phone :  string
+        + GPA :  double
+        + LastEducation :  string
+        + Schedule :  string
+        + Salary :  string
+    }
+
+
+        %% in Folder Job
+    class EmailTemplate {
+        + JobId :  int
+        + EmailHR :  string
+        + EmailUser :  string
+        + EmailOffering :  string
+        + EmailReject :  string
+    }
+
+    class Job {
+        + JobId :  int
+        + JobTitle :  string
+        + JobDescription :  string
+        + JobRequirement :  string
+        + IsJobAvailable :  bool
+        + Location :  string
+        + JobPostedDate :  DateTime
+        + JobExpiredDate :  DateTime
+        + JobMinEducation :  string
+        + JobDepartment :  string  
+        + EmploymentType :  string 
+        + CandidateCount :  int
+        + ProcessStatus :  string  
+        + EmailHR :  string        
+        + EmailUser :  string      
+        + EmailOffering :  string  
+        + AdminId :  string        
+    }
+
+    class JobCreate {
+        + JobId :  int
+        + JobTitle :  string
+        + JobDescription :  string
+        + JobRequirement :  string
+        + IsJobAvailable :  bool
+        + Location :  string
+        + JobExpiredDate :  DateTime
+    }
+
+    class JobViewModel {
+        + JobId :  int
+        + JobTitle :  string
+        + JobDescription :  string
+        + JobRequirement :  string
+        + Location :  string
+        + JobPostedDate :  DateTime
+        + JobExpiredDate :  DateTime
+        + CandidateCount : int
+    }
+
+
+        %% in Folder User
+    class User {
+        + Name :  string
+    }
+
+    class UserEditProfile {
+        + Name : string
+        + CandidateId : int
+        + Phone : string
+        + GPA : double
+        + LastEducation : string
+        + Schedule : string
+        + Salary : string
+        + StatusInJob : string
+        + FileCV : IFormFile
+    }
+
+    class UserSignup {
+        + Name : string
+        + Email : string
+        + Password : string
+        + ConfirmPassword : string
+    }
+
+
+        %% in Folder UserJob
+    class CandidateJobStatus {
+        + CandidateStatus : string
+        + JobTitle : string
+    }
+
+    class UserJob {
+        + Id : int
+        + DateHRInterview : DateTime
+        + TimeHRInterview : DateTime
+        + LocationHRInterview : string
+        + DateUserInterview : DateTime
+        + TimeUserInterview : DateTime
+        + LocationUserInterview : string
+        + EmailInterviewUser : string
+        + SendEmailStatus : bool
+        + CV : string
+        + Job : Job
+        + User : User
+        + StatusInJob : string
+    }
+
+    class UserViewModel {
+
+    }
+
+
+        %%==========
+    class DataCandidateJobs {
+        + UserId : string
+        + Name : string
+        + Email : string
+        + Phone : string
+        + LastEducation : string
+        + GPA : double
+        + CV : string
+        + Salary : string
+        + DateHRInterview : DateTime
+        + TimeHRInterview : DateTime
+        + LocationHRInterview : string
+        + DateUserInterview : DateTime
+        + TimeUserInterview : DateTime
+        + LocationUserInterview : string
+        + EmailInterviewUser : string
+        + SendEmailStatus : bool
+        + CandidateJobId : int
+    }
+
+
+    class ErrorViewModel {
+        + RequestId : string
+        + ShowRequestId : bool
+    }
+
+    class MailSettings {
+		+ FromAddress : string
+		+ FromName : string
+		+ SmtpServer : string
+		+ SmtpPort : int
+		+ Username : string
+		+ Password : string
+	}
+
+    class ProcessType {
+        << enumeration >>
+        Administration
+        HRInterview
+        UserInterview 
+        Offering
+        Accepted
+        Rejected 
+    }
+
+    class ProcessViewModel {
+        + Administration : List < DataCandidateJobs >
+        + HRInterview : List < DataCandidateJobs >
+        + UserInterview : List < DataCandidateJobs >
+        + Offering : List < DataCandidateJobs >
+    }
+
+
+    %% ====== Controller ======
+
+    class AdminController{
+	    - _context : ApplicationDbContext 
+	    - _logger : ILogger < HomeController >
+	    - _configuration : IConfiguration
+	    - _userManager : UserManager < User >
+
+
+        + AdminController(logger: ILogger< HomeController >, configuration: IConfiguration, context: ApplicationDbContext, userManager: UserManager< User >)
+        + Index() : IActionResult
+        + JobClosed() : IActionResult
+        + CloseTheJob(id: int) : IActionResult
+        + ActivateTheJob(id: int) : IActionResult
+        + DeleteJob(id: int) : IActionResult
+        + CreateJob() : View() : IActionResult
+        + CreateJobs(objJob: JobCreate) : IActionResult
+        + EditJob(id: int) : IActionResult
+        + EditJobs(objJob: JobCreate) : IActionResult
+        + RecruitmentProcess(id: int) : IActionResult
+        + TemplateEmail(id: int) : IActionResult
+        + SaveTemplateEmail(objEmailTemplate: EmailTemplate) : IActionResult
+        + DownloadCV(UserId: string, JobId: int) : IActionResult
+        + Accept(UserId: string, JobId: int) : IActionResult
+        + SaveEmailUser(JobId: int, emailUser: string) : IActionResult
+        + Rejected(UserId: string, JobId: int) : IActionResult
+        + SendHRInterview(UserId: string, JobId: int, date: DateTime, time: DateTime, location: string) : ActionResult
+        + SendUserInterview(UserId: string, JobId: int, date: DateTime, time: DateTime, location: string) : ActionResult
+        + SendEmailRejection(objUser: User, UJ: UserJob, jobTitle: string) : void
+    }
+
+    class CandidateController {
+        - _context : ApplicationDbContext
+        - _logger : ILogger < HomeController >
+        - _configuration : IConfiguration
+        - _server : IWebHostEnvironment
+        - _userManager : UserManager < User >
+
+        + CandidateController(logger: ILogger< HomeController >, server: IWebHostEnvironment, configuration: IConfiguration, context: ApplicationDbContext, userManager: UserManager< User >)
+        + Profile() : IActionResult
+        + EditProfile(profile: UserEditProfile) : IActionResult
+        + ApplyJob(id: int) : IActionResult
+        + ApplyJobs(JobId: int, updateCandidate: UserEditProfile) : IActionResult
+        + TrackJob() : IActionResult
+        + Job() : Job
+        + EditProfile(objCandidate: Candidate) : IActionResult
+        + GetStatusApplication(status: string) : string
+    }
+
+    class HomeController {
+        - _context : ApplicationDbContext
+        - _logger : ILogger < HomeController >
+        - _configuration : IConfiguration
+        - _userManager : UserManager < User >
+
+        + HomeController(logger: ILogger< HomeController >, configuration: IConfiguration, context: ApplicationDbContext, userManager: UserManager< User >)
+        + Index() : IActionResult
+        + SearchJob(searchstring: string) : IActionResult
+        + DetailJob(id: int) : IActionResult
+        + Error() : IActionResult
+    }

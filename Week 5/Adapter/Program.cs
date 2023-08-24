@@ -5,9 +5,12 @@ class Program
 	{
 		List<ISpotify> play = new List<ISpotify>
 		{
-			new Spotify(new Prambors(), new Dangdut()),
-			new Spotify(new HardRock(), new Hardcore()),
-			new Spotify(new Rri(), new Jazz())
+			new AdapterRadio(new Prambors()),
+			new AdapterRadio(new HardRock()),
+			new AdapterRadio(new Rri()),
+			new AdapterMusic( new Dangdut()),
+			new AdapterMusic( new Hardcore()),
+			new AdapterMusic( new Jazz())
 		};
 		foreach (var p in play)
 		{
@@ -21,7 +24,12 @@ class Program
 
 
 
+
+
+
+
 /*
+//Extension Method
  public static class CurrencyExtensions
 	{
 		public static string ToCurrencyString(this int amount)
